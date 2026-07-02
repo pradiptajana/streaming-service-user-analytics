@@ -8,7 +8,7 @@ The primary business objective is to identify user behavioral patterns, segment 
 ---
 
 ## 🛠️ Tech Stack & Excel Tooling
-*   **Data Ingestion & ETL:** Power Query (Data cleaning, type casting, text-splitting, and column merging).
+*   **Data Ingestion & ETL:** Power Query (Data cleaning, type casting, text splitting, and column merging).
 *   **Analytical Formulas:** Advanced logical and lookup chains (`XLOOKUP`, `INDEX-MATCH`, `IFERROR`, `NESTED IFs`, `DATEDIF`).
 *   **Aggregation Engine:** Pivot Tables & Pivot Charts with Custom Conditional Formatting.
 *   **User Interface:** Interactive Slicers, Timelines, and Dynamic KPI Cards.
