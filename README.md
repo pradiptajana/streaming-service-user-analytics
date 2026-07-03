@@ -1,3 +1,4 @@
+<img width="546" height="682" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/656b9ca3-5b03-4b2a-8ee0-777d013cd05a" />
 # Streaming Service User Analytics & Retention Dashboard 📊
 
 ## 📌 Project Overview
